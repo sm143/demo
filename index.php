@@ -1,5 +1,7 @@
 <?php
 
-echo "hii";
+echo "hello world";
+
+echo "from sm";
 
 ?>
